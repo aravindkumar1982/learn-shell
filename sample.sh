@@ -1,4 +1,4 @@
 ls
-ls-la
+ls -la
 uname
 uname -a
