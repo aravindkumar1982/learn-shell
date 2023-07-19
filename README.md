@@ -10,4 +10,3 @@ Shell scripting automation
 6. Loops
 7. Exit status & Redirectors & Quotes
 8. SED editors
-9. 
